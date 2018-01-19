@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c36b8ed-3f53-4717-bb1b-bb66d2a99988" name="Default" comment="mid_term test2">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mid_term2/test__2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/midterm_/test2_.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,21 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="test2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mid_term/test2.java">
+      <file leaf-file-name="test2_.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/midterm_/test2_.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="833">
-              <caret line="49" column="16" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="53" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test__2.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/mid_term2/test__2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="935">
-              <caret line="55" column="5" lean-forward="false" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
+            <state relative-caret-position="663">
+              <caret line="39" column="46" lean-forward="true" selection-start-line="39" selection-start-column="46" selection-end-line="39" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -68,6 +58,7 @@
         <option value="$PROJECT_DIR$/src/mid_term/test2.java" />
         <option value="$PROJECT_DIR$/src/mid_term/Mid_/term/test_2.java" />
         <option value="$PROJECT_DIR$/src/mid_term2/test__2.java" />
+        <option value="$PROJECT_DIR$/src/midterm_/test2_.java" />
       </list>
     </option>
   </component>
@@ -338,6 +329,14 @@
       <option name="presentableId" value="Default" />
       <updated>1511076187766</updated>
     </task>
+    <task id="LOCAL-00001" summary="mid_term test2">
+      <created>1516348601334</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1516348601334</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -404,7 +403,8 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="mid_term test2" />
+    <option name="LAST_COMMIT_MESSAGE" value="mid_term test2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -607,14 +607,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/mid_term/test2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="833">
-          <caret line="49" column="16" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="53" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/OOp_lab3/TestSwichCase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -623,10 +615,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/mid_term/test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="49" column="16" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="53" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/mid_term2/test__2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="935">
-          <caret line="55" column="5" lean-forward="false" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
+        <state relative-caret-position="174">
+          <caret line="42" column="26" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="55" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/midterm_/test2_.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="46" lean-forward="true" selection-start-line="39" selection-start-column="46" selection-end-line="39" selection-end-column="46" />
           <folding />
         </state>
       </provider>
