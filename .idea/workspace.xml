@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c36b8ed-3f53-4717-bb1b-bb66d2a99988" name="Default" comment="mid_term Test1">
+    <list default="true" id="8c36b8ed-3f53-4717-bb1b-bb66d2a99988" name="Default" comment="Class and object: student1">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Lap_7/StudentApp.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -17,18 +18,36 @@
       <file leaf-file-name="student.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Lap_7/student.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="8" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+            <state relative-caret-position="614">
+              <caret line="71" column="0" lean-forward="false" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
               <folding>
-                <element signature="e#586#587#0" expanded="true" />
-                <element signature="e#617#618#0" expanded="true" />
-                <element signature="e#651#652#0" expanded="true" />
-                <element signature="e#679#680#0" expanded="true" />
-                <element signature="e#710#711#0" expanded="true" />
-                <element signature="e#743#744#0" expanded="true" />
-                <element signature="e#785#786#0" expanded="true" />
-                <element signature="e#817#818#0" expanded="true" />
+                <element signature="e#875#876#0" expanded="true" />
+                <element signature="e#900#901#0" expanded="true" />
+                <element signature="e#936#937#0" expanded="true" />
+                <element signature="e#964#965#0" expanded="true" />
+                <element signature="e#996#997#0" expanded="true" />
+                <element signature="e#1024#1025#0" expanded="true" />
+                <element signature="e#1066#1067#0" expanded="true" />
+                <element signature="e#1100#1101#0" expanded="true" />
+                <element signature="e#1134#1135#0" expanded="true" />
+                <element signature="e#1163#1164#0" expanded="true" />
+                <element signature="e#1208#1209#0" expanded="true" />
+                <element signature="e#1244#1245#0" expanded="true" />
+                <element signature="e#1275#1276#0" expanded="true" />
+                <element signature="e#1302#1303#0" expanded="true" />
+                <element signature="e#1342#1343#0" expanded="true" />
+                <element signature="e#1374#1375#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StudentApp.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Lap_7/StudentApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="41" lean-forward="false" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -55,6 +74,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/oop_lab/s357411110080/rmutsv/com/HelloWord.java" />
         <option value="$PROJECT_DIR$/src/mid_term/Test_1.java" />
+        <option value="$PROJECT_DIR$/src/Lap_7/StudentApp.java" />
         <option value="$PROJECT_DIR$/src/Lap_7/student.java" />
       </list>
     </option>
@@ -269,6 +289,14 @@
       <option name="presentableId" value="Default" />
       <updated>1511076187766</updated>
     </task>
+    <task id="LOCAL-00001" summary="Class and object: student">
+      <created>1516673506340</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1516673506340</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -308,7 +336,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="mid_term Test1" />
-    <option name="LAST_COMMIT_MESSAGE" value="mid_term Test1" />
+    <MESSAGE value="Class and object: student" />
+    <MESSAGE value="Class and object: student1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class and object: student1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -366,19 +396,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lap_7/StudentApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="41" lean-forward="false" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Lap_7/student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="8" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+        <state relative-caret-position="614">
+          <caret line="71" column="0" lean-forward="false" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
           <folding>
-            <element signature="e#586#587#0" expanded="true" />
-            <element signature="e#617#618#0" expanded="true" />
-            <element signature="e#651#652#0" expanded="true" />
-            <element signature="e#679#680#0" expanded="true" />
-            <element signature="e#710#711#0" expanded="true" />
-            <element signature="e#743#744#0" expanded="true" />
-            <element signature="e#785#786#0" expanded="true" />
-            <element signature="e#817#818#0" expanded="true" />
+            <element signature="e#875#876#0" expanded="true" />
+            <element signature="e#900#901#0" expanded="true" />
+            <element signature="e#936#937#0" expanded="true" />
+            <element signature="e#964#965#0" expanded="true" />
+            <element signature="e#996#997#0" expanded="true" />
+            <element signature="e#1024#1025#0" expanded="true" />
+            <element signature="e#1066#1067#0" expanded="true" />
+            <element signature="e#1100#1101#0" expanded="true" />
+            <element signature="e#1134#1135#0" expanded="true" />
+            <element signature="e#1163#1164#0" expanded="true" />
+            <element signature="e#1208#1209#0" expanded="true" />
+            <element signature="e#1244#1245#0" expanded="true" />
+            <element signature="e#1275#1276#0" expanded="true" />
+            <element signature="e#1302#1303#0" expanded="true" />
+            <element signature="e#1342#1343#0" expanded="true" />
+            <element signature="e#1374#1375#0" expanded="true" />
           </folding>
         </state>
       </provider>
